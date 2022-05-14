@@ -1,4 +1,3 @@
-
 1. Goldman Sachs
 - Print Anagrams Together
 - Overlapping Rectangles
